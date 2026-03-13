@@ -1,0 +1,6 @@
+ESP32
+MQ135 Gas Sensor
+Jumper Wires
+Breadboard
+Power Supply
+Blynk
